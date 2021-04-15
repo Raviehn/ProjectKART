@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 81b5774b8d496c44bbfe8eb6e06099bb
+timeCreated: 1434285044
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 2
+  fontSize: 256
+  forceTextureCase: 0
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  use2xBehaviour: 0
+  fontNames:
+  - SuperMarioKartOutline
+  customCharacters: 
+  fontRenderingMode: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
